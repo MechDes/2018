@@ -1,0 +1,131 @@
+#+Title: Mechanism Design 2018
+#+Author: Christoph Schottmüller
+#+Institute: University of Copenhagen, Department of Economics
+
+* Organization
+
+The official course description (including schedule, exam requirements etc.) can be found [[http://kurser.ku.dk/course/a%c3%98kk08201u/2017-2018][here]].  A tentative lecture schedule is at the end of the page.
+
+Lectures: Friday 12.00-15.00, CSS 7-0-34
+
+If you have not taken Micro C (or forgotten most of it...), you might want to (re-)read chapters 1.1-1.3 and 3.1-3.2 in Robert Gibbons' "Game Theory" book before the course starts. You should also familiarize yourself with the maths [[https://github.com/schottmueller/mechdes/files/78397/math.pdf][handout]].
+
+** Midterm
+The midterm is a take home exam. You have to pass the midterm in order to be admitted to the final exam. The midterm should be done in groups of up to three people. 
+# The deadline for handing in is *Tuesday April 4, 18:00*. Please, hand in via email to "christoph.schottmueller {at} econ.ku.dk". The questions can be found [[https://github.com/MechDes/2017/files/841675/midterm.pdf][here]].
+
+# Please check whether you have passed the midterm in [[https://github.com/MechDes/2017/files/902107/Mechanism.Design_web.pdf][this form]]. 
+
+** Exam
+The final exam is a take home exam. The date is June 15 at 10am to June 22 at 10am, 2017. This is an individual exam (i.e. no groups). The exam is available via "Digital Exam".
+
+
+* Material
+** Lecture slides
+(tentative, later changes are possible)
+- [[https://github.com/schottmueller/mechdes/files/78366/mech_des_01.pdf][W01]] Mechanism Design
+- [[https://github.com/MechDes/2017/files/798837/L02_revelation_GibbardSatterthwaite.pdf][W02]] Gibbard Satterthwaite
+- [[https://github.com/MechDes/2017/files/798730/mech_des03_dom_strat1.pdf][W03]] Clarke Groves
+- [[https://github.com/MechDes/2017/files/816433/L04expected-externality-mech.pdf][W04]] Expected Externality Mechanism
+- [[https://github.com/schottmueller/mechdes/files/158909/L05myerson_satterthwaite.pdf][W05]] Myerson Satterthwaite
+- [[https://github.com/schottmueller/mechdes/files/158913/mech_des06_non_lin_pricing.pdf][W06]] Non-linear Pricing
+- [[https://github.com/MechDes/2017/files/884914/mech_des_07_principalagent.pdf][W07]] Principal Agent / Auctions 
+- [[https://github.com/schottmueller/mechdes/files/200732/mechdes09_correlated_types.pdf][W10]] Correlated Types
+- [[https://github.com/MechDes/2018/files/1685532/mech_des08_nuclear.pdf][W11]] Externalities and Contests
+- Information design [[https://github.com/MechDes/2017/files/951704/infoDes.pdf][1]] and [[https://github.com/MechDes/2017/files/951705/buyerOptLearning.pdf][2]]
+
+** Other material
+- [[https://github.com/schottmueller/mechdes/files/148574/math.pdf][Maths]] for Mechanism Design
+- [[https://github.com/MechDes/2017/files/851223/myersonSatterthwaiteProof.pdf][Handout]] on a more general proof of the Myerson-Satterthwaite theorem
+- [[https://github.com/MechDes/2017/files/847656/envelope_thm_non_linear_pricing.pdf][Handout]] on envelope theorem and single crossing in the non-linear pricing model
+# - Contests with risk averse contestants, jupyter [[http://nbviewer.jupyter.org/github/schottmueller/mechdes/blob/master/webmaterial/Contest-design.ipynb][notebook]]
+
+
+** Literature
+The main text book for the first part is
+- Mas-Colell, Andreu, Michael Dennis Whinston, and Jerry R. Green. Microeconomic theory. New York: Oxford University Press, 1995. only chapter 23 
+
+It is not absolutely necessary to buy the book (though it is a classic for serious micro theorists) and you might want to wait until after the first lecture. Another very interesting book (though with a slightly different approach) of which we will use a chapter or two is 
+- Tilman Börgers. An Introduction to the Theory of Mechanism Design. Oxford University Press 2015; library link: http://dx.doi.org/10.1093/acprof:oso/9780199734023.001.0001 (note that you have to be on campus or connect via VPN to have access to the ebook)
+
+
+We will also cover (parts of) a few papers. A tentative list of papers is the following (you have to use the on campus internet or connect via VPN in order to download the papers for free):
+
+# - Bergemann, Dirk, and Stephen Morris. "Robust mechanism design." Econometrica 73.6 (2005): 1771-1813.[[http://www.jstor.org/stable/3598751][link]]
+- Bergemann, Dirk and Stephen Morris. ”Information Design: A Unified Perspective”, Cowles Foundation Working Paper 2075, (February 2017), [[cowles.yale.edu/sites/default/files/files/pub/d20/d2075.pdf][link]]
+- ﻿Milgrom, Paul and Segal, Ilya. "Envelope Theorems for Arbitrary Choice Sets." Econometrica 70.2 (2002): 583--601. http://dx.doi.org/10.1111/1468-0262.00296
+- Cremer, Jacques, and Richard P. McLean. "Full extraction of the surplus in Bayesian and dominant strategy auctions." Econometrica (1988): 1247-1257. http://www.jstor.org/stable/1913096
+# - Segal,  Ilya, and Michael D. Whinston. "Property rights." Handbook of organizational economics (2012) http://web.stanford.edu/~isegal/prights.pdf
+- Moldovanu, Benny, and Aner Sela. "The optimal allocation of prizes in contests." American Economic Review (2001): 542-558. http://www.jstor.org/stable/pdf/2677878.pdf
+- Jehiel, Philippe, Benny Moldovanu, and Ennio Stacchetti. "How (not) to sell nuclear weapons." American Economic Review (1996): 814-829. http://www.jstor.org/stable/2118306
+- Kamenica and Gentzkow, ”Bayesian Persuasion”, American Economic Review 101(6), 2011, p. 2590-2615, https://www.aeaweb.org/articles?id=10.1257/aer.101.6.2590
+- Martimort, David, and Lars Stole. "Market participation in delegated and intrinsic common-agency games." Rand Journal of Economics 40.1 (2009): 78-102. http://onlinelibrary.wiley.com/doi/10.1111/j.1756-2171.2008.00056.x/full
+- Roesler and Szentes, ”Buyer-optimal Learning and Monopoly Pricing”, American Economic Review, forthcoming, [[http://personal.lse.ac.uk/szentes/docs/learn8.pdf][link]]
+- Gale, David, and Lloyd S. Shapley. "College admissions and the stability of marriage." American Mathematical Monthly 69.1 (1962): 9-15. http://www.jstor.org/stable/2312726
+# - Roth, Alvin E. "The economist as engineer: Game theory, experimentation, and computation as tools for design economics." Econometrica 70.4 (2002): 1341-1378. http://onlinelibrary.wiley.com/doi/10.1111/1468-0262.00335/full
+# - Abdulkadiroglu, Atila, and Tayfun Sönmez. "School choice: A mechanism design approach." American Economic Review (2003): 729-747. http://www.jstor.org/stable/3132114
+
+
+* Tentative lecture schedule
+
+
+** W1: Introduction
+- administrative things
+- the mechanism design problem
+   - social choice function
+   - examples
+   - mechanism and implementation
+- reading: MWG 23.A and 23.B
+
+
+** W2: Dominant strategy implementation
+- dominant strategy implementation
+- truthful implementation and revelation principle for dominant strategy implementation
+- Gibbard-Satterthwaite theorem
+- reading: MWG p. 869-876
+
+
+** W3: Dominant strategy implementation with quasilinear preferences
+-  Groves-Clarke mechanism 
+-  the problem of budget balance
+-  reading: MWG p. 876-882
+
+
+** W4: Bayesian implementation
+-  revelation principle for Bayesian implementation
+-  expected externality mechanism
+-  reading: MWG p. 883-887
+
+
+** W5: Participation constraints
+-  Myerson-Satterthwaite theorem
+-  reading: 887-889 and MWG 23.E
+-  optional extra reading on envelope theorems: Milgrom and Segal (2002)
+
+** W6: Optimal Bayesian mechanisms in quasilinear environments I
+-  efficiency and timing
+-  optimal non-linear pricing
+-  reading: handout on envelope theorem etc., MWG p. 897-900 and Martimort and Stole (2009) p.84-86 (read the rest of the paper if you are interested)
+
+
+** W7: Optimal Bayesian mechanisms in quasilinear environments II
+-  principal-agent problem with hidden information
+-  optimal auctions and revenue equivalence
+-  reading: MWG p. 889-891 and 900-906 (also 906-910 for those who are interested)
+
+
+** W8: midterm
+** W9: Solution to midterm
+-  going through some exercises of the midterm
+
+
+
+** W10: Correlated types
+-  reading: Börgers ch. 6.4 or Cremer and McLean (1988)
+** W11: Externalities and contests
+- reading: Jehiel et al., Moldovanu and Sella
+** W12-14: Information design 
+- Bayesian persuasion
+- Buyer optimal learning and monopoly pricing
+- reading: Bergemann and Morris (2017), p. 1-11 and 24-32, Roesler and Szentes (forthcoming)
+- optional reading: Kamenica and Gentzkow (2011)
