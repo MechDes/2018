@@ -23,7 +23,7 @@ The final exam is a take home exam. The date is June 15 at 10am to June 22 at 10
 * Material
 ** Lecture slides
 (tentative, later changes are possible)
-- [[https://github.com/schottmueller/mechdes/files/78366/mech_des_01.pdf][W01]] Mechanism Design
+- [[https://github.com/MechDes/2018/files/1694607/mech_des_01.pdf][W01]] Mechanism Design
 - [[https://github.com/MechDes/2017/files/798837/L02_revelation_GibbardSatterthwaite.pdf][W02]] Gibbard Satterthwaite
 - [[https://github.com/MechDes/2017/files/798730/mech_des03_dom_strat1.pdf][W03]] Clarke Groves
 - [[https://github.com/MechDes/2017/files/816433/L04expected-externality-mech.pdf][W04]] Expected Externality Mechanism
