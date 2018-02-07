@@ -2,6 +2,9 @@
 #+Author: Christoph Schottmüller
 #+Institute: University of Copenhagen, Department of Economics
 
+* News
+*This course has been cancelled!* See the announcement by the study administration on Absalon for details.
+
 * Organization
 
 The official course description (including schedule, exam requirements etc.) can be found [[http://kurser.ku.dk/course/a%c3%98kk08201u/2017-2018][here]].  A tentative lecture schedule is at the end of the page.
